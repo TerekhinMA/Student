@@ -1,0 +1,57 @@
+[00:00:00] Start: 2020-09-30T09:49:01
+[00:00:00.0418882] GetCurrentSearchPaths: C:\ProgramData\Anaconda3\python.exe, C:\Users\Student\AppData\Local\Microsoft\VisualStudio\15.0_f25b3844\Python\CompletionDB-1\Global\PythonCore\3.7\database.path
+[00:00:00.9406190] SearchPaths: c:\programdata\anaconda3\dlls, c:\programdata\anaconda3\lib, c:\programdata\anaconda3, c:\programdata\anaconda3\lib\site-packages, c:\programdata\anaconda3\lib\site-packages\win32, c:\programdata\anaconda3\lib\site-packages\win32\lib, c:\programdata\anaconda3\lib\site-packages\pythonwin
+[00:00:06.8445397] Scrape: C:\ProgramData\Anaconda3\python.exe, -B -E "c:\program files (x86)\microsoft visual studio\2017\professional\common7\ide\extensions\microsoft\python\core\scrape_module.py"
+[00:00:07.7182030] Scrape: c:\program files (x86)\microsoft visual studio\2017\professional\common7\ide\extensions\microsoft\python\core\scrape_module.py:994: InspectWarning: attribute __abstractmethods__ on <class 'type'> was in dir() but not getattr()
+[00:00:07.7182030] Scrape:   warnings.warn("attribute " + name + " on " + repr(mod) + " was in dir() but not getattr()", InspectWarning)
+[00:00:07.9964573] WriteCachedModule: C:\Users\Student\AppData\Local\Microsoft\VisualStudio\15.0_f25b3844\Python\CompletionDB-1\Global\PythonCore\3.7\gT1Ph-hXjs2YuWUxvv09yMdVAaoqrInhXkhvn6m92Uc=\python.pyi
+[00:00:08.4715450] ImportNotFound: lec1_frag4_current_time
+[00:00:08.4715450] ImportNotFound: lec1_frag4_current_time
+[00:00:10.0667575] ImportBuiltins: _datetime, python.exe
+[00:00:10.0817174] Scrape: C:\ProgramData\Anaconda3\python.exe, -B -E "c:\program files (x86)\microsoft visual studio\2017\professional\common7\ide\extensions\microsoft\python\core\scrape_module.py" -u8 _datetime
+[00:00:10.3011294] WriteCachedModule: C:\Users\Student\AppData\Local\Microsoft\VisualStudio\15.0_f25b3844\Python\CompletionDB-1\Global\PythonCore\3.7\gT1Ph-hXjs2YuWUxvv09yMdVAaoqrInhXkhvn6m92Uc=\python._datetime.pyi
+[00:00:10.3629651] RecursiveImport: datetime
+[00:00:10.3719401] ImportBuiltins: time, python.exe
+[00:00:10.3779250] Scrape: C:\ProgramData\Anaconda3\python.exe, -B -E "c:\program files (x86)\microsoft visual studio\2017\professional\common7\ide\extensions\microsoft\python\core\scrape_module.py" -u8 time
+[00:00:10.6581754] Scrape: c:\program files (x86)\microsoft visual studio\2017\professional\common7\ide\extensions\microsoft\python\core\scrape_module.py:594: InspectWarning: failed to tokenize tm_sec, tm_wday, tm_yday, tm_isdst)
+[00:00:10.6581754] Scrape:   warnings.warn('failed to tokenize ' + expr, InspectWarning)
+[00:00:10.6581754] Scrape: c:\program files (x86)\microsoft visual studio\2017\professional\common7\ide\extensions\microsoft\python\core\scrape_module.py:594: InspectWarning: failed to tokenize tm_sec,tm_wday,tm_yday,tm_isdst)
+[00:00:10.6581754] Scrape:   warnings.warn('failed to tokenize ' + expr, InspectWarning)
+[00:00:10.8157538] WriteCachedModule: C:\Users\Student\AppData\Local\Microsoft\VisualStudio\15.0_f25b3844\Python\CompletionDB-1\Global\PythonCore\3.7\gT1Ph-hXjs2YuWUxvv09yMdVAaoqrInhXkhvn6m92Uc=\python.time.pyi
+[00:00:11.1981292] ImportBuiltins: sys, python.exe
+[00:00:11.2091025] Scrape: C:\ProgramData\Anaconda3\python.exe, -B -E "c:\program files (x86)\microsoft visual studio\2017\professional\common7\ide\extensions\microsoft\python\core\scrape_module.py" -u8 sys
+[00:00:11.5325605] WriteCachedModule: C:\Users\Student\AppData\Local\Microsoft\VisualStudio\15.0_f25b3844\Python\CompletionDB-1\Global\PythonCore\3.7\gT1Ph-hXjs2YuWUxvv09yMdVAaoqrInhXkhvn6m92Uc=\python.sys.pyi
+[00:00:11.5614821] ImportBuiltins: _io, python.exe
+[00:00:11.5644754] Scrape: C:\ProgramData\Anaconda3\python.exe, -B -E "c:\program files (x86)\microsoft visual studio\2017\professional\common7\ide\extensions\microsoft\python\core\scrape_module.py" -u8 _io
+[00:00:11.9314925] WriteCachedModule: C:\Users\Student\AppData\Local\Microsoft\VisualStudio\15.0_f25b3844\Python\CompletionDB-1\Global\PythonCore\3.7\gT1Ph-hXjs2YuWUxvv09yMdVAaoqrInhXkhvn6m92Uc=\python._io.pyi
+[00:00:12.0499744] ImportNotFound: _io.UnsupportedOperation
+[00:00:12.1145589] RecursiveImport: types
+[00:00:12.1155572] ImportNotFound: types.TracebackType
+[00:00:12.1434828] ImportBuiltins: _codecs, python.exe
+[00:00:12.1454772] Scrape: C:\ProgramData\Anaconda3\python.exe, -B -E "c:\program files (x86)\microsoft visual studio\2017\professional\common7\ide\extensions\microsoft\python\core\scrape_module.py" -u8 _codecs
+[00:00:12.3768574] WriteCachedModule: C:\Users\Student\AppData\Local\Microsoft\VisualStudio\15.0_f25b3844\Python\CompletionDB-1\Global\PythonCore\3.7\gT1Ph-hXjs2YuWUxvv09yMdVAaoqrInhXkhvn6m92Uc=\python._codecs.pyi
+[00:00:12.5256616] RecursiveImport: codecs
+[00:00:12.5635279] RecursiveImport: types
+[00:00:12.5635279] ImportNotFound: types.TracebackType
+[00:00:12.6902333] RecursiveImport: types
+[00:00:12.6902333] RecursiveImport: importlib.abc
+[00:00:12.6912327] ImportNotFound: importlib.abc.Loader
+[00:00:12.7221487] ImportBuiltins: _abc, python.exe
+[00:00:12.7241427] Scrape: C:\ProgramData\Anaconda3\python.exe, -B -E "c:\program files (x86)\microsoft visual studio\2017\professional\common7\ide\extensions\microsoft\python\core\scrape_module.py" -u8 _abc
+[00:00:12.9106441] WriteCachedModule: C:\Users\Student\AppData\Local\Microsoft\VisualStudio\15.0_f25b3844\Python\CompletionDB-1\Global\PythonCore\3.7\gT1Ph-hXjs2YuWUxvv09yMdVAaoqrInhXkhvn6m92Uc=\python._abc.pyi
+[00:00:12.9445541] ImportNotFound: _frozen_importlib_external
+[00:00:12.9445541] ImportNotFound: importlib._frozen_importlib_external
+[00:00:13.0031465] ImportNotFound: _importlib_modulespec
+[00:00:13.0041430] ImportNotFound: importlib._importlib_modulespec
+[00:00:13.0051403] ImportNotFound: _importlib_modulespec.Loader
+[00:00:13.0061393] RecursiveImport: types
+[00:00:13.0061393] ImportNotFound: _importlib_modulespec
+[00:00:13.0061393] ImportNotFound: importlib._importlib_modulespec
+[00:00:13.0071002] ImportNotFound: _importlib_modulespec.ModuleSpec
+[00:00:13.0090966] ImportNotFound: types.ModuleType
+[00:00:13.0120882] ImportNotFound: types.FrameType
+[00:00:13.0499844] RecursiveImport: types
+[00:00:13.0519795] RecursiveImport: types
+[00:00:13.0867959] ImportBuiltins: math, python.exe
+[00:00:13.0887909] Scrape: C:\ProgramData\Anaconda3\python.exe, -B -E "c:\program files (x86)\microsoft visual studio\2017\professional\common7\ide\extensions\microsoft\python\core\scrape_module.py" -u8 math
+[00:00:13.2357968] WriteCachedModule: C:\Users\Student\AppData\Local\Microsoft\VisualStudio\15.0_f25b3844\Python\CompletionDB-1\Global\PythonCore\3.7\gT1Ph-hXjs2YuWUxvv09yMdVAaoqrInhXkhvn6m92Uc=\python.math.pyi
